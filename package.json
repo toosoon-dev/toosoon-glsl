@@ -1,0 +1,32 @@
+{
+  "name": "toosoon-glsl",
+  "version": "1.0.0",
+  "description": "GLSL utility functions",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toosoon-dev/toosoon-glsl.git"
+  },
+  "keywords": [
+    "toosoon",
+    "glsl",
+    "utils",
+    "functions",
+    "webgl",
+    "shaders",
+    "colors",
+    "easings",
+    "geometry",
+    "3d",
+    "maths"
+  ],
+  "author": "Arnaud Rocca",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/toosoon-dev/toosoon-glsl/issues"
+  },
+  "homepage": "https://github.com/toosoon-dev/toosoon-glsl#readme"
+}
