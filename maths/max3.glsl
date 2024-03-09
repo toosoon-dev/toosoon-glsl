@@ -1,5 +1,5 @@
 float max3(in float a, in float b, in float c) {
-  return max3(a, b, c);
+  return max(max(a, b), c);
 }
 
 float max3(in vec3 v) {

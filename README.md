@@ -120,4 +120,4 @@ $ npm install toosoon-glsl
 
 ## License
 
-MIT License, see [LICENSE](https://github.com/toosoon-dev/toosoon-glsl/tree/master/LICENSE) for details
+MIT License, see [LICENSE](https://github.com/toosoon-dev/toosoon-glsl/tree/master/LICENSE) for details.
